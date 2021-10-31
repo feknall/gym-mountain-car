@@ -1,9 +1,6 @@
-import time
 import gym
 import numpy as np
-import _thread
 import imageio
-from gym_to_gif import save_frames_as_gif
 
 env = gym.make("MountainCar-v0")
 env.reset()
@@ -23,7 +20,6 @@ q_table = np.random.uniform(low=-2, high=0, size=(DISCRETE_OS_SIZE + [env.action
 def get_discrete_state(state):
     discrete_state = (state - env.observation_space.low) / discrete_os_win_size
     return tuple(discrete_state.astype(np.int))
-
 
 
 for episode in range(EPISODES):
@@ -55,9 +51,5 @@ for episode in range(EPISODES):
         discrete_state = new_discrete_state
     if render:
         imageio.mimsave(f'./{episode}.gif', frames, fps=40)
-        # _thread.start_new_thread(save_frames_as_gif, (frames, f'./{episode}.gif', ))
-
-    #     write_gif(frames, str(episode) + '.gif')
-    #     print(len(frames))
 
 env.close()
