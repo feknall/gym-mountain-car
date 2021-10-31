@@ -3,6 +3,8 @@ The is a Q-learning implementation of OpenAI Gym Mountain Car game.
 
 The car reaches to the goal just after a few hundreds of episodes.
 
+<img src="https://user-images.githubusercontent.com/20484865/139605337-0a1c6287-f156-4fa0-89c1-8aed90142007.gif" width="250" height="250"/>
+
 |  |  |
 | --- | --- |
 | ![0](https://user-images.githubusercontent.com/20484865/139605337-0a1c6287-f156-4fa0-89c1-8aed90142007.gif) |
