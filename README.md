@@ -1,5 +1,5 @@
 # gym-mountain-car
-The is a Q-learning implementation of [OpenAI Gym Mountain Car](https://gym.openai.com/envs/MountainCar-v0) game.
+This repository is a Q-learning implementation of [OpenAI Gym Mountain Car](https://gym.openai.com/envs/MountainCar-v0) game.
 
 The goal is reaching to the flag by using 3 different actions, including 'left', 'nothing', 'right'. However, the force is not enough to reach to the flag just by 'right' action and the agent must use the momentum of car.
 
