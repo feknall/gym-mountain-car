@@ -46,4 +46,4 @@ Episode 200, 400, 600 | <img src="https://user-images.githubusercontent.com/2048
  Episode 10000, 10200, 10400 | <img src="https://user-images.githubusercontent.com/20484865/139605393-1fcbf0c0-4b80-40e8-a770-1208a2cc7e6d.gif" width="300" height="200"/> | <img src="https://user-images.githubusercontent.com/20484865/139605394-16b16586-0890-4b0e-9862-7891b4384a6d.gif" width="300" height="200"/> | <img src="https://user-images.githubusercontent.com/20484865/139605395-c63a9f7b-b298-4591-a252-bab415e6af4e.gif" width="300" height="200"/>
 
 # References
- With special thanks to [sentex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ), An amazing Youtuber!
+ With special thanks to [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ), An amazing Youtuber!
