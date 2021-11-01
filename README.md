@@ -3,8 +3,8 @@ The is a Q-learning implementation of [OpenAI Gym Mountain Car](https://gym.open
 
 The goal is reaching to the flag by using 3 different actions, including 'left', 'nothing', 'right'. However, the force is not enough to reach to the flag just by 'right' action and the agent must use the momentum of car.
 
-The car reaches to the goal just after a few hundreds of episodes.
-|||| 
+The car reaches to the goal just after a few hundreds of episodes. 
+
 | Episodes  | Output | Output | Output |
 | - | - | - | - |
 Episode 200, 400, 600 | <img src="https://user-images.githubusercontent.com/20484865/139605337-0a1c6287-f156-4fa0-89c1-8aed90142007.gif" width="300" height="200"/> | <img src="https://user-images.githubusercontent.com/20484865/139605337-0a1c6287-f156-4fa0-89c1-8aed90142007.gif" width="300" height="200"/> | <img src="https://user-images.githubusercontent.com/20484865/139605338-d1e26c92-7ae6-4430-b614-446f06eca3f1.gif" width="300" height="200"/> |
