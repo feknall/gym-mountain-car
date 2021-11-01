@@ -3,6 +3,10 @@ The is a Q-learning implementation of [OpenAI Gym Mountain Car](https://gym.open
 
 The goal is reaching to the flag by using 3 different actions, including 'left', 'nothing', 'right'. However, the force is not enough to reach to the flag just by 'right' action and the agent must use the momentum of car.
 
+# How to use
+Just copy-paste the mountain_car_v0.py to your project or clone this repository and run mountain_car_v0.py using python.
+
+# Results
 The car reaches to the goal just after a few hundreds of episodes. 
 
 | Episodes  | Output | Output | Output |
