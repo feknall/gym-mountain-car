@@ -50,6 +50,7 @@ for episode in range(EPISODES):
 
         discrete_state = new_discrete_state
     if render:
+        print(frames[0].shape)
         imageio.mimsave(f'./{episode}.gif', frames, fps=40)
 
 env.close()
