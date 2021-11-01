@@ -5,9 +5,9 @@ The car reaches to the goal just after a few hundreds of episodes.
 |   |   |   |
 | - | - | - |
 | A | B | C |
-|<img src="https://user-images.githubusercontent.com/20484865/139605337-0a1c6287-f156-4fa0-89c1-8aed90142007.gif" width="300" height="200"/>
-|<img src="https://user-images.githubusercontent.com/20484865/139605337-0a1c6287-f156-4fa0-89c1-8aed90142007.gif" width="300" height="200"/>
-|<img src="https://user-images.githubusercontent.com/20484865/139605338-d1e26c92-7ae6-4430-b614-446f06eca3f1.gif" width="300" height="200"/>
+|<img src="https://user-images.githubusercontent.com/20484865/139605337-0a1c6287-f156-4fa0-89c1-8aed90142007.gif" width="300" height="200"/>|
+<img src="https://user-images.githubusercontent.com/20484865/139605337-0a1c6287-f156-4fa0-89c1-8aed90142007.gif" width="300" height="200"/>
+|<img src="https://user-images.githubusercontent.com/20484865/139605338-d1e26c92-7ae6-4430-b614-446f06eca3f1.gif" width="300" height="200"/> |
 <img src="https://user-images.githubusercontent.com/20484865/139605339-265071a3-78ea-48a1-9bbd-44e2cb4e09aa.gif" width="300" height="200"/>
 <img src="https://user-images.githubusercontent.com/20484865/139605340-050538b0-7174-4607-a4bd-4548d43123e8.gif" width="300" height="200"/>
 <img src="https://user-images.githubusercontent.com/20484865/139605341-975d20d9-d7a6-4881-b254-b986de678e64.gif" width="300" height="200"/>
