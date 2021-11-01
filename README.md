@@ -40,3 +40,6 @@ Episode 200, 400, 600 | <img src="https://user-images.githubusercontent.com/2048
  Episode 9200, 9400, 9600 | <img src="https://user-images.githubusercontent.com/20484865/139605389-9a67118d-dd24-43cf-93fc-4fc6a64e9160.gif" width="300" height="200"/> | <img src="https://user-images.githubusercontent.com/20484865/139605390-55ff133e-b490-4210-bea8-83932600a649.gif" width="300" height="200"/> | <img src="https://user-images.githubusercontent.com/20484865/139605391-fdf24507-e0c7-4913-96dd-9ffca4e27da7.gif" width="300" height="200"/> |
 |||| 
  Episode 10000, 10200, 10400 | <img src="https://user-images.githubusercontent.com/20484865/139605393-1fcbf0c0-4b80-40e8-a770-1208a2cc7e6d.gif" width="300" height="200"/> | <img src="https://user-images.githubusercontent.com/20484865/139605394-16b16586-0890-4b0e-9862-7891b4384a6d.gif" width="300" height="200"/> | <img src="https://user-images.githubusercontent.com/20484865/139605395-c63a9f7b-b298-4591-a252-bab415e6af4e.gif" width="300" height="200"/>
+
+References:
+ With special thanks to [sentex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ), An amazing Youtuber!
